@@ -1,7 +1,5 @@
-#### file ####
-setwd("C:/Users/muhammet.aydin/Desktop/STOK_DASHBOARD_TR")
 
-#### R file running ####
+#### RUN R PACKAGES ####
 source("dependencies.R")
 
 
